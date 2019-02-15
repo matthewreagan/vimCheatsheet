@@ -11,6 +11,9 @@
 - `o`		Interactive mode, inserting new line (equivalent to `A<return>`)
 - `O`		Interactive mode, inserting previous line (equivalent to `ko`)
 - `s`		Interactive mode, after deleting character (equivalent to `xi`)
+- `w`   Move to start of next word
+- `e`   Move to end of current word
+- `b`   Move back to start of current word
 
 ## Finding, cursor movement
 
